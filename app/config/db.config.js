@@ -4,7 +4,7 @@ module.exports = {
   PASSWORD: "aaAA001122",
   DB: "konnexiaformatio_api_db",
   dialect: "mysql",
-  port: 3307,
+  PORT: 3306,
   pool: {
     max: 5,
     min: 0,
