@@ -1,9 +1,10 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
-  DB: "testdb",
+  HOST:"68.66.248.39",
+  USER: "konnexiaformatio_1",
+  PASSWORD: "aaAA001122",
+  DB: "konnexiaformatio_api_db",
   dialect: "mysql",
+  port: 3307,
   pool: {
     max: 5,
     min: 0,
